@@ -1,0 +1,25 @@
+{
+  "name": "angularjs-currency-input",
+  "version": "1.0",
+  "description": "A currency input directive for angularjs.",
+  "homepage": "https://github.com/jahd2602/angularjs-currency-input",
+  "keywords": [
+    "currency",
+    "formatter",
+    "input",
+    "angularjs",
+    "angular",
+    "directive"
+  ],
+  "main": "currencyInput.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jahd2602/angularjs-currency-input.git"
+  },
+  "license": "LGPL v3",
+  "author": {
+    "name": "Jairo Honorio",
+    "email": "jairo@jahdsoft.com",
+    "url": "https://jairo.jahdsoft.com"
+  }
+}
